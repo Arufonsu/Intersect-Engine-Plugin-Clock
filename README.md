@@ -6,7 +6,7 @@ A simple, yet useful plugin that will allow you to quickly add an easy-to-use an
 ##  Features:
 
 - Ability to toggle the visibility of this widget with the shortcut 'Ctrl' + 'O' by default (Configurable ish~).
-- Ability to drag this widget arround by holding the mouse right-click on its top title window.
+- Ability to drag the widget arround by holding the mouse right-click on it's title.
 - config.json setting that allows you to turn on/off the plugin (default is  "IsEnabled": true).
 - config.json setting that allows you to change the clock format ( default is "ClockFormat": "H:mm")
 
