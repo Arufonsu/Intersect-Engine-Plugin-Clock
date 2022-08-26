@@ -1,6 +1,7 @@
-# Intersect-Engine-Plugin-Clock
-A simple, yet useful plugin that will allow you to quickly add an easy to use and view server time widget within your intersect engine's client!
+# [Intersect Engine] Game Client Plugin: Clock
+A simple, yet useful plugin that will allow you to quickly add an easy-to-use and view server time widget to your intersect engine's game client!
 
+![](https://s3.us-east-2.amazonaws.com/ascensiongamedev/filehost/87861da5d3c6de42d7520cbec04efcde.png)
 
 ##  Features:
 
@@ -10,7 +11,7 @@ A simple, yet useful plugin that will allow you to quickly add an easy to use an
 - config.json setting that allows you to change the clock format ( default is "ClockFormat": "H:mm")
 
 ## Compiled Version
-You can download an already compiled version [here](https://www.ascensiongamedev.com/files/file/172-client-plugin-ingameclock/ "here").
+You can download a compiled version [here](https://www.ascensiongamedev.com/files/file/172-client-plugin-ingameclock/ "here").
 
 
 ##  Installation:
