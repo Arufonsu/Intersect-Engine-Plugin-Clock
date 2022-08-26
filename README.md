@@ -18,5 +18,5 @@ You can download a compiled version [here](https://www.ascensiongamedev.com/file
 
 - Place the folder 'InGameClock' into your \Intersect Client\resources\plugins folder.
 - Adjust config.json file to fit your needs! Regarding the clock format, [you may want to read this sheet in order to undertand how it works!](https://www.c-sharpcorner.com/blogs/date-and-time-format-in-c-sharp-programming1 "you may want to read this sheet in order to undertand how it works!")
-- Run the client to try it out! try hiding the widget with the 'Ctrl' + 'O' shortcut, or move it around by dragging the widget from its title window, now you may enjoy your game with this easy to access widget !
+- That's it! You may now run the game client to try it out.
 
